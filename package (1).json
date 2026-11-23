@@ -1,8 +1,0 @@
-{
-  "name": "allstar-td-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "올스타 타워 디펜스 HQ 계정/세이브 서버",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=16" }
-}
